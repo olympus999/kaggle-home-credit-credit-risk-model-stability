@@ -1,0 +1,1 @@
+Experimenting with two-sample Kolmogorov-Smirnov test to understand which columns have a higher impact on the results. The highger the difference between a True and a False label, the higher the impact for that column.
